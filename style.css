@@ -1,0 +1,45 @@
+body {
+    background: #222;
+    color: white;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.column {
+    flex: 1;
+}
+
+.box {
+    background: #333;
+    border: 2px solid #555;
+    padding: 10px;
+    min-height: 300px;
+}
+
+.courseBox {
+    background: #444;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #666;
+    cursor: grab;
+}
+
+.courseBox:hover {
+    background: #555;
+}
+
+.infoBox {
+    background: #333;
+    padding: 10px;
+    min-height: 200px;
+    border: 2px solid #555;
+}
+
+.droppable {
+    border: 2px dashed #888;
+}

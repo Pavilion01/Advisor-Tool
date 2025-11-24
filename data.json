@@ -1,0 +1,32 @@
+[
+    {
+        "code": "BNC1251C",
+        "name": "Architectural Drawing 1 and Lab",
+        "prereq": [],
+        "notes": "Fundamentals of construction drafting"
+    },
+    {
+        "code": "IND2408",
+        "name": "Specialized Software for Interior Design",
+        "prereq": [],
+        "notes": "Instruction in specialized software for visual communication."
+    },
+    {
+        "code": "HHD1361",
+        "name": "Practical Interior Appliations",
+        "prereq": [],
+        "notes": "Knowledge of window treatments, floor coverings, and wall coverings."
+    },
+    {
+        "code": "BCN2049",
+        "name": "Sustainable Design & Construction",
+        "prereq": [],
+        "notes": "Basic theories of ecology relating to construction and interior design."
+    },
+    {
+        "code": "IND1300",
+        "name": "Graphics of Interior Design 1",
+        "prereq": [],
+        "notes": "Presentation techniques for oral and written communication"
+    }
+]
