@@ -1,0 +1,46 @@
+[
+    {
+        "code": "ENG3311",
+        "name": "Statics",
+        "prereq": ["EGN2045", "MAC2311C", "ETG3541", "PHY2048C"],
+        "notes": "Fundamental concepts of mechanics such as free body diagrams, center of gravity, inertia, and equilibrium."
+    },
+    {
+        "code": "GEB3213",
+        "name": "Business Writing",
+        "prereq": ["ENC1101"],
+        "notes": "Basics of business writing while reviewing the various kinds of written business correspondence."
+    },
+    {
+        "code": "EGN3321",
+        "name": "Dynamics",
+        "prereq": ["ENG3311"],
+        "notes": "Reviews dynamics of particles and rigid bodies using free body diagrams, Newton's laws, impulse-momentum, and energy methods."
+    },
+    {
+        "code": "EGN3613",
+        "name": "Engineering Economics Analysis",
+        "prereq": [
+            ["EGN2045", "MAC2311C"]   
+        ],
+        "notes": "Application of engineering economics principles to equipment acquisition and system feasibility analysis."
+    },
+    {
+        "code": "ETG4950",
+        "name": "Senior Design 2 and Lab",
+        "prereq": ["ETI4448"],
+        "notes": "Project planning and evaluation of an engineering problem."
+    },
+    {
+        "code": "ETI4448",
+        "name": "Senior Design 1",
+        "prereq": ["EGN3613"],
+        "notes": "Covers statements of work, milestones, scheduling, and resource allocation."
+    },
+    {
+        "code": "EGN2045",
+        "name": "Engineering, Technology, and Calculus 1",
+        "prereq": ["MAC1114"],
+        "notes": "Precalculus and calculus concepts applied to engineering problem solving."
+    }
+]
