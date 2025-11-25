@@ -1,0 +1,45 @@
+[
+    {
+        "code": "ENG3311",
+        "name": "Statics",
+        "prereq": "EGN2045, MAC2311C, ETG3541, PHY2048C",
+        "notes": "Fundamnetal concepts and laws of mechanics, coordinate systems, and resultants of force systems, free body diagrams, center of gravity, centriod, moment of inertia, equilibrium of rigid bodies."
+    },
+    {
+        "code": "GEB3213",
+        "name": "Business Writing",
+        "prereq": "ENC1101",
+        "notes": "Basics of business writing while reviewing the various kinds of written business correspondence."
+    },
+    {
+        "code": "EGN3321",
+        "name": "Dynamics",
+        "prereq": "EGN3311",
+        "notes": "Reviews damics of particles and rigid bodies, application of free body diagrams, Newton's second law. the impluse-momentum method, and the work energprinciple to solve dynamic problems in mechanical systems."
+    },
+    {
+        "code": "EGN3613",
+        "name": "Engineering Economics Analysis",
+        "prereq": "EGN2045 or MAC2311C",
+        "notes": "Application of principles of engineering economics to the acquisition of equipment and system feasiblity."
+    },
+    {
+        "code": "ETG4950",
+        "name": "Project Management and Senior Design 2 and Lab",
+        "prereq": "ETI4448",
+        "notes": "Evolve project planning, development, and evaluation of a real life problem."
+    },
+    {
+        "code": "ETI4448",
+        "name": "Project Management and Senior Design",
+        "prereq": "EGN3613",
+        "notes": "Includes statement of work, milestones, activit decisions, timelines, scheduling, and resource allocation methods."
+    },
+    {
+        "code": "EGN2045",
+        "name": "Engineering and Technology and Calculus 1",
+        "prereq": "MAC1114",
+        "notes": "Ceoncepts of pre-calculus and calculus with direct application of the used ofthese mathematical skills in engineering and technology problems solving."
+        
+    }
+]
