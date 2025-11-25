@@ -20,7 +20,7 @@
     {
         "code": "EGN3613",
         "name": "Engineering Economics Analysis",
-        "prereq": ["EGN2045 or MAC2311C"],
+        "prereq": ["EGN2045, MAC2311C"],
         "notes": "Application of principles of engineering economics to the acquisition of equipment and system feasiblity."
     },
     {
@@ -43,4 +43,5 @@
         
     }
 ]
+
 
